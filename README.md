@@ -3,12 +3,12 @@
 ```
 
 <p align="center">
-<img align=right width="100%" src="https://www.gitskins.com/api/section/system-scan?username=phr7&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
-<!-- <img align=right width="20%" src="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/> -->
+<img align=right width="100%" src="https://www.gitskins.com/api/section/system-scan?username=phr7&theme=satan&style=terminal&mode=dark"/>
+<!-- <img align=right width="20%" src="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&mode=dark"/> -->
 <!-- <div align="left">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-      <img width="77%" src="https://www.gitskins.com/api/section/wordmark?username=phr7&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=phr7&theme=satan&style=terminal&mode=light" />
+      <img width="77%" src="https://www.gitskins.com/api/section/wordmark?username=phr7&theme=satan&style=terminal&label=surya.hs&mode=dark&style=terminal&mode=dark"/>
     </picture>
 </div> -->
 </p>
@@ -40,11 +40,11 @@
 <img align=center width="100%" src="./gh_img/neofetch.webp"/>
 
 <div align="center">
-    <img align="right" width="47%" src="https://www.gitskins.com/api/section/hero?username=phr7&theme=satan&style=terminal&mode=dark&nw=ISgQ6lDVTIIGxo5e"/>
+    <img align="right" width="47%" src="https://www.gitskins.com/api/section/hero?username=phr7&theme=satan&style=terminal&mode=dark"/>
     <div align="left">
         <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=phr7&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-          <img align="left" width="47%" src="https://www.gitskins.com/api/section/stats?username=phr7&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
+          <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=phr7&theme=satan&style=terminal&mode=light" />
+          <img align="left" width="47%" src="https://www.gitskins.com/api/section/stats?username=phr7&theme=satan&style=terminal" />
         </picture>
     </div>
 </div>
@@ -54,8 +54,8 @@
 <img align=right width="20%" src="https://i.pinimg.com/1200x/94/bd/a8/94bda80b34cfdfca2594718fe10108f4.jpg"/>
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=phr7&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img width="77%" src="https://www.gitskins.com/api/section/heatmap?username=phr7&theme=satan&style=terminal&nw=ISgQ6lDVTIIGxo5e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=phr7&theme=satan&style=terminal&mode=light" />
+    <img width="77%" src="https://www.gitskins.com/api/section/heatmap?username=phr7&theme=satan&style=terminal" />
   </picture>
 </div>
 
@@ -63,8 +63,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=phr7&theme=satan&style=terminal&website=xphr.dev&nw=ISgQ6lDVTIIGxo5e&mode=light" />
-    <img width="100%" src="https://www.gitskins.com/api/section/social?username=phr7&theme=satan&style=terminal&website=xphr.dev&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=phr7&theme=satan&style=terminal&website=xphr.dev&mode=light" />
+    <img width="100%" src="https://www.gitskins.com/api/section/social?username=phr7&theme=satan&style=terminal&website=xphr.dev" alt="asamassekou10 social section" />
   </picture>
 </div>
 
