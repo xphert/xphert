@@ -64,7 +64,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=xphert&theme=satan&style=terminal&website=intsomnia.com&mode=light" />
-    <img width="100%" src="https://www.gitskins.com/api/section/social?username=xphert&theme=satan&style=terminal&website=xphr.dev" alt="asamassekou10 social section" />
+    <img width="100%" src="https://www.gitskins.com/api/section/social?username=xphert&theme=satan&style=terminal&website=intsomnia.com" />
   </picture>
 </div>
 
